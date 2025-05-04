@@ -1,4 +1,4 @@
-# Vision Transformer (ViT) – A Theoretical Exploration
+# Vision Transformer (ViT) - TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
 
 This repository presents an educational implementation of the **Vision Transformer (ViT)** architecture using PyTorch, inspired by the foundational paper _"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"_ by Dosovitskiy et al. The goal is to gain a conceptual understanding of how transformers—originally developed for natural language processing—can be adapted for vision tasks by treating image patches as token sequences.
 

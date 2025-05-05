@@ -10,7 +10,7 @@ The Vision Transformer (ViT) leverages this by **flattening images into sequence
 
 ## Core Components
 
-![Vision Transformer Architecture](/src/data/image.png)
+![Vision Transformer Architecture](image.png)
 
 ### 1. Patch Embedding
 

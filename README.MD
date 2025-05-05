@@ -8,7 +8,9 @@ Traditional Convolutional Neural Networks (CNNs) have dominated computer vision 
 
 The Vision Transformer (ViT) leverages this by **flattening images into sequences of patches**, allowing standard transformer encoders to process them similarly to word tokens in NLP.
 
-## Core Components and Theory
+## Core Components
+
+![Vision Transformer Architecture](/src/data/image.png)
 
 ### 1. Patch Embedding
 
